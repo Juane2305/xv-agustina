@@ -206,7 +206,7 @@ const Invitacion = () => {
             styleBorderModal={{ borderColor: colorPrincipal }}
             styleTextColor={{ color: colorPrincipal }}
             cbu="0000003100002999045161"
-            alias="massutti.mp"
+            alias="massuttimp"
             banco="Mercado Pago"
             nombre="Agustina Massutti"
             claseModal="bg-[#829672]"
